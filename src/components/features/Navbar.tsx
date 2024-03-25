@@ -45,9 +45,9 @@ const NavItems = () => {
       >
         כניסה
       </Button>
-      <NavLink>קצת עלינו</NavLink>
-      <NavLink>איך זה עובד</NavLink>
-      <NavLink>צור קשר</NavLink>
+      <NavLink sx={{":hover":{cursor:"pointer"}}}>קצת עלינו</NavLink>
+      <NavLink sx={{":hover":{cursor:"pointer"}}}>איך זה עובד</NavLink>
+      <NavLink sx={{":hover":{cursor:"pointer"}}}>צור קשר</NavLink>
     </Box>
   );
 };

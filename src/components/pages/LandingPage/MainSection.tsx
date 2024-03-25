@@ -15,6 +15,7 @@ export function MainSection() {
           width: "80%",
           alignItems: "center",
           justifyContent: "space-between",
+          flexWrap:"nowrap"
         }}
       >
         <Box display={"flex"} justifyContent={"center"} flexDirection={"column"} gap={"30px"} alignSelf={"center"}>
