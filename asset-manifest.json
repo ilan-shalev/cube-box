@@ -1,8 +1,27 @@
 {
   "files": {
     "main.css": "/cube-box/static/css/main.9ef2381d.css",
-    "main.js": "/cube-box/static/js/main.2ca6181c.js",
+    "main.js": "/cube-box/static/js/main.404d2697.js",
+    "reactPlayerYouTube.js": "/cube-box/static/js/reactPlayerYouTube.a7c1861f.chunk.js",
+    "reactPlayerSoundCloud.js": "/cube-box/static/js/reactPlayerSoundCloud.e5aefcaf.chunk.js",
+    "reactPlayerVimeo.js": "/cube-box/static/js/reactPlayerVimeo.7035892b.chunk.js",
+    "reactPlayerMux.js": "/cube-box/static/js/reactPlayerMux.e9d16871.chunk.js",
+    "reactPlayerFacebook.js": "/cube-box/static/js/reactPlayerFacebook.9235d37c.chunk.js",
+    "reactPlayerStreamable.js": "/cube-box/static/js/reactPlayerStreamable.7e619887.chunk.js",
+    "reactPlayerWistia.js": "/cube-box/static/js/reactPlayerWistia.210c8f7c.chunk.js",
+    "reactPlayerTwitch.js": "/cube-box/static/js/reactPlayerTwitch.77065bdd.chunk.js",
+    "reactPlayerDailyMotion.js": "/cube-box/static/js/reactPlayerDailyMotion.797bd48b.chunk.js",
+    "reactPlayerMixcloud.js": "/cube-box/static/js/reactPlayerMixcloud.1fd0ae5f.chunk.js",
+    "reactPlayerVidyard.js": "/cube-box/static/js/reactPlayerVidyard.ad1f12ef.chunk.js",
+    "reactPlayerKaltura.js": "/cube-box/static/js/reactPlayerKaltura.ba53061a.chunk.js",
+    "reactPlayerFilePlayer.js": "/cube-box/static/js/reactPlayerFilePlayer.fa60fc57.chunk.js",
+    "reactPlayerPreview.js": "/cube-box/static/js/reactPlayerPreview.8015b147.chunk.js",
     "static/media/cubeBoxShape.png": "/cube-box/static/media/cubeBoxShape.fac2a7700f751ddb6d4e.png",
+    "static/media/landingStep5.png": "/cube-box/static/media/landingStep5.f1cf71a4ed4b1a1b45cc.png",
+    "static/media/landingStep1.png": "/cube-box/static/media/landingStep1.5582970dcf57537b879b.png",
+    "static/media/landingStep4.png": "/cube-box/static/media/landingStep4.3b5377fdd5b56e967deb.png",
+    "static/media/landingStep2.png": "/cube-box/static/media/landingStep2.a488c7c5b530a21fbad9.png",
+    "static/media/landingStep3.png": "/cube-box/static/media/landingStep3.d0024e46606630d13f17.png",
     "static/media/logo.svg": "/cube-box/static/media/logo.e610a16a81c645730febe11f06714730.svg",
     "static/media/funAndSimple.svg": "/cube-box/static/media/funAndSimple.6c4c27a63e1dbfc3fa0d7dce17e597dc.svg",
     "static/media/roboto-latin-500-normal.woff2": "/cube-box/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -65,10 +84,24 @@
     "static/media/arrowDown.svg": "/cube-box/static/media/arrowDown.3dcae724c7534e6e4bdc132562016892.svg",
     "index.html": "/cube-box/index.html",
     "main.9ef2381d.css.map": "/cube-box/static/css/main.9ef2381d.css.map",
-    "main.2ca6181c.js.map": "/cube-box/static/js/main.2ca6181c.js.map"
+    "main.404d2697.js.map": "/cube-box/static/js/main.404d2697.js.map",
+    "reactPlayerYouTube.a7c1861f.chunk.js.map": "/cube-box/static/js/reactPlayerYouTube.a7c1861f.chunk.js.map",
+    "reactPlayerSoundCloud.e5aefcaf.chunk.js.map": "/cube-box/static/js/reactPlayerSoundCloud.e5aefcaf.chunk.js.map",
+    "reactPlayerVimeo.7035892b.chunk.js.map": "/cube-box/static/js/reactPlayerVimeo.7035892b.chunk.js.map",
+    "reactPlayerMux.e9d16871.chunk.js.map": "/cube-box/static/js/reactPlayerMux.e9d16871.chunk.js.map",
+    "reactPlayerFacebook.9235d37c.chunk.js.map": "/cube-box/static/js/reactPlayerFacebook.9235d37c.chunk.js.map",
+    "reactPlayerStreamable.7e619887.chunk.js.map": "/cube-box/static/js/reactPlayerStreamable.7e619887.chunk.js.map",
+    "reactPlayerWistia.210c8f7c.chunk.js.map": "/cube-box/static/js/reactPlayerWistia.210c8f7c.chunk.js.map",
+    "reactPlayerTwitch.77065bdd.chunk.js.map": "/cube-box/static/js/reactPlayerTwitch.77065bdd.chunk.js.map",
+    "reactPlayerDailyMotion.797bd48b.chunk.js.map": "/cube-box/static/js/reactPlayerDailyMotion.797bd48b.chunk.js.map",
+    "reactPlayerMixcloud.1fd0ae5f.chunk.js.map": "/cube-box/static/js/reactPlayerMixcloud.1fd0ae5f.chunk.js.map",
+    "reactPlayerVidyard.ad1f12ef.chunk.js.map": "/cube-box/static/js/reactPlayerVidyard.ad1f12ef.chunk.js.map",
+    "reactPlayerKaltura.ba53061a.chunk.js.map": "/cube-box/static/js/reactPlayerKaltura.ba53061a.chunk.js.map",
+    "reactPlayerFilePlayer.fa60fc57.chunk.js.map": "/cube-box/static/js/reactPlayerFilePlayer.fa60fc57.chunk.js.map",
+    "reactPlayerPreview.8015b147.chunk.js.map": "/cube-box/static/js/reactPlayerPreview.8015b147.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef2381d.css",
-    "static/js/main.2ca6181c.js"
+    "static/js/main.404d2697.js"
   ]
 }
