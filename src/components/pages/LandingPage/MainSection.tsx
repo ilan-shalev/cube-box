@@ -38,9 +38,8 @@ export function MainSection() {
           </Box>
           <MainSearch onSearched={console.log} />
         </Box>
-        <Box flex={0.3} alignSelf={"stretch"}>
-          <img
-            style={{ objectFit: "cover" }}
+        <Box flex={0.3} alignSelf={"stretch"} minWidth={"30%"}>
+          <img            
             width={"100%"}
             height={"100%"}
             src={cubeBoxShape}
