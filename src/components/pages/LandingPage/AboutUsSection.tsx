@@ -1,15 +1,11 @@
-import React from "react";
 import styled from "styled-components";
-import obyStyle from "../../../assets/obyStyle.png";
 import { Box, Button } from "@mui/material";
+import LandingTitle from "../../ui/LandingTitle";
 
 export function AboutUsSection() {
   return (
     <SectionWrapper>
-      <Box flex={0.2} display="flex" gap="1rem" alignItems={"center"}>
-        <TitleTypography>קצת עלינו </TitleTypography>
-        <img width={"40px"} src={obyStyle} alt="oby" />
-      </Box>
+      <LandingTitle title="קצת עלינו" flex={0.2}/>
       <TextTypography
         component={"p"}
         flex={0.6}
@@ -43,19 +39,10 @@ export function AboutUsSection() {
 const SectionWrapper = styled.section`
   display: flex;
   flex-direction: column;
-  padding-right: 100px;
   height: 100vh;
   padding: 0px 10rem;
 `;
 
-const TitleTypography = styled.span`
-  font: Fredoka;
-  font-size: 40px;
-  font-weight: 300;
-  line-height: 48.4px;
-  letter-spacing: 0.08em;
-  text-align: right;
-`;
 const TextTypography = styled(Box)`
   font: Fredoka;
   font-size: 20px;

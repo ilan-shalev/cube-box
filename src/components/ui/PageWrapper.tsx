@@ -10,4 +10,5 @@ export const PageWrapper = styled(Container).attrs({
   max-width:100vw;
   overflow: hidden;
   overflow-wrap: "break-word";
+  overflow-y: scroll;
 `;
