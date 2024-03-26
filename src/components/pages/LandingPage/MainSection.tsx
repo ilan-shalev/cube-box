@@ -2,6 +2,7 @@ import styled from "styled-components";
 import Navbar from "../../features/Navbar";
 import { Box } from "@mui/material";
 import funAndSimple from "../../../assets/funAndSimple.svg";
+import cubeBoxShape from "../../../assets/cubeBoxShape.png";
 import { MainSearch } from "../../ui";
 
 export function MainSection() {
@@ -11,14 +12,22 @@ export function MainSection() {
       <Box
         sx={{
           display: "flex",
-          flex: 0.8,
+          flex: 1,
           width: "80%",
           alignItems: "center",
           justifyContent: "space-between",
-          flexWrap:"nowrap"
+          flexWrap: "nowrap",
+          gap:"5rem"
         }}
       >
-        <Box display={"flex"} justifyContent={"center"} flexDirection={"column"} gap={"30px"} alignSelf={"center"}>
+        <Box
+          display={"flex"}
+          justifyContent={"center"}
+          flexDirection={"column"}
+          gap={"30px"}
+          alignSelf={"center"}
+          flex={1}
+        >
           <Box>
             <img
               width={"100%"}
@@ -27,20 +36,17 @@ export function MainSection() {
               alt="fun and simple real estate"
             />
           </Box>
-          <MainSearch  onSearched={() => {}}/>
+          <MainSearch onSearched={console.log} />
         </Box>
-        {/* <Box width={"21.7%"} height={"100%"}>
+        <Box flex={0.3} alignSelf={"stretch"}>
           <img
-            src={cubeBoxShapeOuter}
-            alt="cube box shape"
-            style={{ top: "0", left: "0" }}
-          />
-          <img
-            src={cubeBoxShapeInner}
-            style={{ top: "50%", left: "50%" }}
+            style={{ objectFit: "cover" }}
+            width={"100%"}
+            height={"100%"}
+            src={cubeBoxShape}
             alt="cube box shape"
           />
-        </Box> */}
+        </Box>
       </Box>
     </Wrapper>
   );
