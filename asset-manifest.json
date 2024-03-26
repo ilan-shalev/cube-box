@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/cube-box/static/css/main.9ef2381d.css",
-    "main.js": "/cube-box/static/js/main.1fafdd8e.js",
+    "main.js": "/cube-box/static/js/main.2ca6181c.js",
+    "static/media/cubeBoxShape.png": "/cube-box/static/media/cubeBoxShape.fac2a7700f751ddb6d4e.png",
     "static/media/logo.svg": "/cube-box/static/media/logo.e610a16a81c645730febe11f06714730.svg",
     "static/media/funAndSimple.svg": "/cube-box/static/media/funAndSimple.6c4c27a63e1dbfc3fa0d7dce17e597dc.svg",
     "static/media/roboto-latin-500-normal.woff2": "/cube-box/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -64,10 +65,10 @@
     "static/media/arrowDown.svg": "/cube-box/static/media/arrowDown.3dcae724c7534e6e4bdc132562016892.svg",
     "index.html": "/cube-box/index.html",
     "main.9ef2381d.css.map": "/cube-box/static/css/main.9ef2381d.css.map",
-    "main.1fafdd8e.js.map": "/cube-box/static/js/main.1fafdd8e.js.map"
+    "main.2ca6181c.js.map": "/cube-box/static/js/main.2ca6181c.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef2381d.css",
-    "static/js/main.1fafdd8e.js"
+    "static/js/main.2ca6181c.js"
   ]
 }
