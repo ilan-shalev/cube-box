@@ -7,7 +7,7 @@ export const TryItOutSection = () => {
     <Wrapper>
       <TitleTypography component={"h1"}>צרו חוויה משלכם</TitleTypography>
       <TextTypograpy>
-        לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית קולורס מונפרד אדנדוםלורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית קולורס מונפרד אדנדום לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית קולורס מונפרד אדנדום 
+      לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית קולורס מונפרד אדנדום 
       </TextTypograpy>
     </Wrapper>
   );
@@ -20,7 +20,6 @@ const Wrapper = styled(Box)`
   padding-top: 10rem;
   align-items: center;
   height: 100vh;
-
 `;
 
 const TitleTypography = styled(Box)`
@@ -37,4 +36,5 @@ const TextTypograpy = styled(Box)`
   font-weight: 400;
   line-height: 51.6px;
   letter-spacing: 0.15em;
+  width:80%;
 `;
