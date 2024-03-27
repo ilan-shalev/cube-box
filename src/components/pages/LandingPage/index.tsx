@@ -4,6 +4,8 @@ import { AboutUsSection } from "./AboutUsSection";
 import { HowDoesItWorksSection } from "./HowDoesItWorksSection";
 import { PageWrapper } from "../../ui";
 import ReactPlayer from "react-player";
+import { TryItOutSection } from "./TryItOutSection";
+
 export default function LandingPage() {
   return (
     <PageWrapper>
@@ -16,6 +18,7 @@ export default function LandingPage() {
         height={"100vh"}
         url={"https://www.youtube.com/watch?v=K4TOrB7at0Y"}
       />
+      <TryItOutSection /> 
     </PageWrapper>
   );
 }

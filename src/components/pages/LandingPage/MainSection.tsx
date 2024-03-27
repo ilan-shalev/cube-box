@@ -64,5 +64,5 @@ const Wrapper = styled.main`
   justify-content: flex-start;
   align-items: center;
   height: calc(100vh - 2 * 30px);
-  padding: 50px 20px 0px 20px;
+  padding: 60px 20px 0px 20px;
 `;
